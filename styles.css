@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    background-color: #92c5d1;
+    border-radius: 50px;
+}
+body{
+    background-color:#61acc9;
+}
+img{
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border: 4px solid whitesmoke ;
+}
